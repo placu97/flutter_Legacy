@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1071918530987",
+    "project_id": "provatestyoo",
+    "storage_bucket": "provatestyoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071918530987:android:7c1aa1c23d0d32532852ee",
+        "android_client_info": {
+          "package_name": "com.example.velocityx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071918530987-ec3ksr4da9kvg3jjk759oeuc1mokfdm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4OTK-LhFbNDJ3ItPBsYOkTU6qoEe9jC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071918530987-ec3ksr4da9kvg3jjk759oeuc1mokfdm9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071918530987-to75ttvnfub1ash0hprndn3kd1a4lm44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.velocityx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
